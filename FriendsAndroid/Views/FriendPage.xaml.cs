@@ -1,4 +1,5 @@
-﻿using FriendsAndroid.VeiwModels;
+﻿using FriendsAndroid.Models;
+using FriendsAndroid.VeiwModels;
 using System;
 using System.Collections.Generic;
 using System.Linq;
